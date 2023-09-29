@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @IfechukwuNwufo
-- 👀 I’m interested in coding
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning and contributing to python
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on something python related
 - 📫 How to reach me nwufo2009@gmail.com
 
 <!---
